@@ -1,4 +1,6 @@
 # ATLAS Project
+### Running the Notebooks
+My analysis is split into two parts (as the notebooks were getting quite long). The first part 
 
 As far as I know, I did not add any extra dependencies besides that already included in your original repository. However, just in case, I've included a requirements file.
 
